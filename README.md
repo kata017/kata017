@@ -16,10 +16,11 @@
             </ul>
         </td>
          <td>
-            ![Alt text](Images/kata.png)
+            <img src="/Images/kata.png" width="500" title="hover text">
         </td>
     </tr>
 </table>
+## Hi there 👋
 ### Languages and Tools:
 
 <br/>
