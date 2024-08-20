@@ -19,14 +19,14 @@
                 <li>☕ Coffee lover</li>
                 <li>⚡ Fun fact <b>I love Bullet Journaling.</b></li>
             </ul>
-         <div align="center"> 
-           <a href="mailto:kata017@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-          </a>
-  <a href="https://www.linkedin.com/in/katalin-lazányi-182a8b1a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+            <div align="center"> 
+                <a href="mailto:kata017@gmail.com">
+                    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+                </a>
+                <a href="https://www.linkedin.com/in/katalin-lazányi-182a8b1a" target="_blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+                </a>
+            </div>
         </td>
          <td>
             <img src="/Images/kata.png" width="500" title="hover text">
@@ -40,29 +40,28 @@
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" width="50" height="50"/> 
 <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objective-c" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
- 
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/huawei/huawei-icon.svg" alt="huawei" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/appcenterms/appcenterms-icon.svg" alt="app-center" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="google analytics" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/huawei/huawei-icon.svg" alt="huawei" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/appcenterms/appcenterms-icon.svg" alt="app-center" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="google analytics" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> 
 <br/>
 
 ## Examples of Work
@@ -81,6 +80,12 @@
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kata017&show_icons=true&theme=tokyonight" alt="kata017"/>
 </p>
+
+<details>
+  <summary><b>GitHub Activity Graph</b></summary>
+  <img alt="kata017's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kata017&bg_color=1F222E&color=BE91F2&line=638fda&point=35aea1&hide_border=true" />
+</details>
+
 
 ## 🎧 Spotify Playing
 
