@@ -15,18 +15,9 @@
                 <li>🔭 I’m currently working on mobile development </li>
                 <li>🌱 I’m currently learning <b>Flutter, SwiftUI</b></li>
                 <li>💬 Ask me about anything <a href="https://github.com/kata017/kata017/issues">here</a> </b></li>
-                <li>🎯 Every good story starts with a cup of coffee.</li>
-                <li>☕ Coffee lover</li>
+                <li>🎯 Every good story starts with a cup of coffee. ☕ </li>
                 <li>⚡ Fun fact <b>I love Bullet Journaling.</b></li>
             </ul>
-            <div align="center"> 
-                <a href="mailto:kata017@gmail.com">
-                    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-                </a>
-                <a href="https://www.linkedin.com/in/katalin-lazányi-182a8b1a" target="_blank">
-                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-                </a>
-            </div>
         </td>
          <td>
             <img src="/Images/kata.png" width="500" title="hover text">
@@ -34,7 +25,9 @@
     </tr>
 </table>
 
-## Languages and Tools:
+## ✨ About me
+
+### Languages and Tools:
 
 <br/>
 <p align="left">
@@ -92,6 +85,15 @@
 [![Kata Top Music](https://img.shields.io/badge/Kata%20Top%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl) 
 [![Kata Hungarian Music](https://img.shields.io/badge/Kata%20Hungarian%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0ra8nPeud1YT0OkOaR2kpG)
 
+
+<!-- <div align="center"> 
+                <a href="mailto:kata017@gmail.com">
+                    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+                </a>
+                <a href="https://www.linkedin.com/in/katalin-lazányi-182a8b1a" target="_blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+                </a>
+            </div> -->
 
 <!-- Social badges section 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21ivtirncrekuroxtgfzjfgiy)
