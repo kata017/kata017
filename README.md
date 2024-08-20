@@ -8,7 +8,7 @@
             <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
             <img src="https://readme-typing-svg.demolab.com?font=Rouge+Script&size=30&pause=1000&color=4ED3C0&width=435&lines=Hi%2C+I'am+Kata++%F0%9F%91%8B;I'am+Mobile+Application+Developer+%F0%9F%93%B1;I'am+Flutter+Developer+%F0%9F%96%A5;I+%E2%9D%A4%EF%B8%8F+UI+Design"/>
             <br/>
-            I'm Kata, a freelance mobile and web developer. My goal is to provide you with the best possible solution with my knowledge, both in terms of application and web development. 💻💖☕
+            I'm Kata, a freelance mobile and web developer.
             <br/>
             <br/>
             <ul>
@@ -27,38 +27,75 @@
 
 ## ✨ About me
 
+I have 10+ years of experience in building mobile applications. Familiar with various mobile development tools and frameworks like IOS native with Objective-C or Swift, Android native with Java and Flutter with Dart.
+
+### My Services
+
+Do you need to build a high-quality mobile app? Whether you're a startup looking to launch your first mobile app or an established business aiming to enhance your digital presence, I'm here to help you every step of the way. From initial concept and design to development, testing, and deployment, I'm committed to delivering results that exceed your expectations.
+
 ### Languages and Tools:
 
 <br/>
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objective-c" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/huawei/huawei-icon.svg" alt="huawei" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/appcenterms/appcenterms-icon.svg" alt="app-center" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="google analytics" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> 
-<br/>
+  <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objective-c" width="50" height="50"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="50" height="50"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/huawei/huawei-icon.svg" alt="huawei" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="50" height="50"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="50" height="50"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/appcenterms/appcenterms-icon.svg" alt="app-center" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="google analytics" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="50" height="50"/> 
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> 
+</p>
 
-## Examples of Work
-<!-- <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" > -->
+## Featured Contents
+
+### 📺 Latest YouTube Videos
+Coming soon...
+
+### 📒 Latest Blog Posts
+Coming soon...
+
+## Featured Projects
+Coming soon...
 
 ## ✨ GitHub Stats
 
