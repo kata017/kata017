@@ -1,3 +1,7 @@
+<h1 align="center">
+  Hi. Welcome to my Github!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
  <table>
     <tr>
         <td>
@@ -9,27 +13,37 @@
             <br/>
             <ul>
                 <li>🔭 I’m currently working on mobile development </li>
-                <li>🌱 I’m currently learning **Flutter, SwiftUI** </li>
+                <li>🌱 I’m currently learning <b>Flutter, SwiftUI</b></li>
+                <li>💬 Ask me about anything <a href="https://github.com/kata017/kata017/issues">here</a> </b></li>
                 <li>🎯 Every good story starts with a cup of coffee.</li>
                 <li>☕ Coffee lover</li>
-                <li>⚡ Fun fact **I love Bullet Journaling.**</li>
+                <li>⚡ Fun fact <b>I love Bullet Journaling.</b></li>
             </ul>
+         <div align="center"> 
+           <a href="mailto:kata017@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+          </a>
+  <a href="https://www.linkedin.com/in/katalin-lazányi-182a8b1a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
         </td>
          <td>
             <img src="/Images/kata.png" width="500" title="hover text">
         </td>
     </tr>
 </table>
-## Hi there 👋
-### Languages and Tools:
+
+## Languages and Tools:
 
 <br/>
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objective-c" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" width="50" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objective-c" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
+ 
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="22" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/huawei/huawei-icon.svg" alt="huawei" width="22" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="22" height="22"/> 
@@ -49,18 +63,33 @@
 <img src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" alt="codepen" width="22" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="22" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> 
+<br/>
 
+## Examples of Work
+<!-- <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" > -->
+
+## ✨ GitHub Stats
+
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=kata017&label=Profile%20views&color=0e75b6&style=flat" alt="kata017" /> 
+</p>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kata017&layout=compact&hide=html" alt="kata017"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kata017&layout=compact&hide=html&theme=tokyonight" alt="kata017"/>
 </p>
 
 <p>
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kata017&show_icons=true" alt="kata017"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kata017&show_icons=true&theme=tokyonight" alt="kata017"/>
 </p>
+
+## 🎧 Spotify Playing
+
+[![Kata Top Music](https://img.shields.io/badge/Kata%20Top%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl) 
+[![Kata Hungarian Music](https://img.shields.io/badge/Kata%20Hungarian%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0ra8nPeud1YT0OkOaR2kpG)
 
 
 <!-- Social badges section 
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/21ivtirncrekuroxtgfzjfgiy)
 <br/>
 <p align="center">
     <a href="https://github.com/kata017?tab=repositories&sort=stargazers">
