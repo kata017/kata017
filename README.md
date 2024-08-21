@@ -1,37 +1,41 @@
 <h1 align="center">
-  Hi. Welcome to my Github!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hi. Welcome to my Github!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
- <table>
-    <tr>
-        <td>
-            <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-            <img src="https://readme-typing-svg.demolab.com?font=Rouge+Script&size=30&pause=1000&color=4ED3C0&width=435&lines=Hi%2C+I'am+Kata++%F0%9F%91%8B;I'am+Mobile+Application+Developer+%F0%9F%93%B1;I'am+Flutter+Developer+%F0%9F%96%A5;I+%E2%9D%A4%EF%B8%8F+UI+Design"/>
-            <br/>
-            I'm Kata, a freelance mobile and web developer.
-            <br/>
-            <br/>
-            <ul>
-                <li>🔭 I’m currently working on mobile development </li>
-                <li>🌱 I’m currently learning <b>Flutter, SwiftUI</b></li>
-                <li>💬 Ask me about anything <a href="https://github.com/kata017/kata017/issues">here</a> </b></li>
-                <li>🎯 Every good story starts with a cup of coffee. ☕ </li>
-                <li>⚡ Fun fact <b>I love Bullet Journaling.</b></li>
-            </ul>
-        </td>
-         <td>
-            <img src="/Images/kata.png" width="500" title="hover text">
-        </td>
-    </tr>
+<table>
+    <tbody>
+         <tr>
+            <td>
+                <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+                <img src="https://readme-typing-svg.demolab.com?font=Rouge+Script&size=30&pause=1000&color=4ED3C0&width=435&lines=Hi%2C+I'am+Kata++%F0%9F%91%8B;I'am+Mobile+Application+Developer+%F0%9F%93%B1;I'am+Flutter+Developer+%F0%9F%96%A5;I+%E2%9D%A4%EF%B8%8F+UI+Design"/>
+                 <br/>
+                I'm Kata, a freelance mobile and web developer.
+                <br/>
+                <br/>
+                <ul>
+                    <li>🔭 I’m currently working on mobile development </li>
+                    <li>🌱 I’m currently learning <b>Flutter, SwiftUI</b></li>
+                    <li>💬 Ask me about anything <a href="https://github.com/kata017/kata017/discussions">here</a> </b></li>
+                    <li>🎯 Every good story starts with a cup of coffee. ☕ </li>
+                    <li>⚡ Fun fact <b>I love Bullet Journaling.</b></li>
+                </ul>
+            </td>
+            <td>
+                <img src="/Images/kata.png" width="500" title="hover text">
+            </td>
+        </tr>
+    </tbody>
 </table>
 
-## ✨ About me
+## 👀 About me
 
 I have 10+ years of experience in building mobile applications. Familiar with various mobile development tools and frameworks like IOS native with Objective-C or Swift, Android native with Java and Flutter with Dart.
 
 ### My Services
 
 Do you need to build a high-quality mobile app? Whether you're a startup looking to launch your first mobile app or an established business aiming to enhance your digital presence, I'm here to help you every step of the way. From initial concept and design to development, testing, and deployment, I'm committed to delivering results that exceed your expectations.
+
+### Connect with me:
 
 ### Languages and Tools:
 
@@ -100,15 +104,15 @@ Coming soon...
 ## ✨ GitHub Stats
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=kata017&label=Profile%20views&color=0e75b6&style=flat" alt="kata017" /> 
+    <img src="https://komarev.com/ghpvc/?username=kata017&label=Profile%20views&color=0e75b6&style=flat" alt="kata017"/> 
 </p>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kata017&layout=compact&hide=html&theme=tokyonight" alt="kata017"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kata017&layout=compact&hide=html&theme=tokyonight" alt="kata017" height="180em"/>
 </p>
 
 <p>
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kata017&show_icons=true&theme=tokyonight" alt="kata017"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kata017&show_icons=true&theme=tokyonight" alt="kata017" height="180em"/>
 </p>
 
 <details>
