@@ -126,5 +126,6 @@ Coming soon...
 [![Kata Top Music](https://img.shields.io/badge/Kata%20Top%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl) 
 [![Kata Hungarian Music](https://img.shields.io/badge/Kata%20Hungarian%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0ra8nPeud1YT0OkOaR2kpG)
 [![Kata Mixed Music](https://img.shields.io/badge/Kata%20Mixed%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0S1P1ljIukrrHNnfwGGdgC)
-
 <br/>
+<br/>
+[![Spotify](https://kata017.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/kata017)
