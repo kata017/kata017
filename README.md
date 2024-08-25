@@ -37,10 +37,12 @@ Do you need to build a high-quality mobile app? Whether you're a startup looking
 
 ### Connect with me:
 
-<p>
-  <a href="https://www.linkedin.com/in/katalin-lazányi-182a8b1a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:kata017@gmail.com?subject=Mail From GitHub Profile"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-</p
+<p align="left">
+     <a href="mailto:kata017@gmail.com?subject=Mail From GitHub Profile">
+         <img align="center" src="https://img.icons8.com/?size=100&id=13922&format=png&color=000000" height="40" width="40"/></a>
+     <a href="https://www.linkedin.com/in/katalin-lazányi-182a8b1a/">
+        <img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="40" width="40"/></a>
+</p>
 
 ### Languages and Tools:
 
