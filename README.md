@@ -113,26 +113,9 @@ Coming soon...
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=kata017&label=Profile%20views&color=0e75b6&style=flat" alt="kata017"/> 
 </p>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kata017&layout=compact&hide=html&theme=tokyonight&border_radius=20px" alt="kata017" height="180em"/>
-</p>
-
-<p>
-    &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kata017&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&border_radius=20px&custom_title=All%20My%20Stats%20in%20a%20Nutshel" alt="kata017" height="180em"/>
-</p>
-
-<details>
-    <summary><b>GitHub Activity Graph</b></summary>
-    <br/>
-    <img alt="kata017's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kata017&bg_color=1F222E&color=BE91F2&line=638fda&point=35aea1&hide_border=true" />
-</details>
 
 ## 🎧 Spotify Playing
 
 [![Kata Top Music](https://img.shields.io/badge/Kata%20Top%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl) 
 [![Kata Hungarian Music](https://img.shields.io/badge/Kata%20Hungarian%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0ra8nPeud1YT0OkOaR2kpG)
 [![Kata Mixed Music](https://img.shields.io/badge/Kata%20Mixed%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0S1P1ljIukrrHNnfwGGdgC)
-<br/>
-<br/>
-[![Spotify](https://kata017.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/kata017)
